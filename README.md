@@ -2,6 +2,9 @@
 
 ![KnightPong_GIF](https://github.com/JeroekPanggang/KnightPong/assets/158981726/1dcfe4f9-fedf-4e1f-b1b2-9efe6aca7395)
 
+![image](https://github.com/JeroekPanggang/KnightPong/assets/158981726/512dd1a6-da89-4fb2-baf1-b829cc7f9b3d)
+
+
 ### About Game
 KnightPong is a pong game with a medieval theme. Players can play against other players offline or against bots. Hit the ball into the opponent's goal and prevent the ball from entering your goal.
 
