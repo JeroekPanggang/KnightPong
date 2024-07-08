@@ -28,6 +28,18 @@
 </p>
 
 <h3>
+   📁 How to Play
+</h3>
+
+<p>
+        1. Download ZIP file from my itch.io: <a href="https://jeroekpanggang.itch.io/knightpong">KnightPong</a> by JeroekPanggang [This ZIP File contain the builded game]<br>
+        2. Extract the ZIP File<br>
+        3. Click (Extracted) Folder and Search for "VITRUSH" Application<br>
+        4. Click Application<br>
+        5. Enjoy the Game<br>
+</p>
+
+<h3>
     🗂️ Asset Used 
 </h3>
 
