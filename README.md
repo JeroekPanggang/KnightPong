@@ -1,7 +1,7 @@
-# KnightPong
+<h1>KnightPong</h1>
 
 ![KnightPong_GIF](https://github.com/JeroekPanggang/KnightPong/assets/158981726/1dcfe4f9-fedf-4e1f-b1b2-9efe6aca7395)
-
+![Screenshot 2024-04-20 095529](https://github.com/JeroekPanggang/KnightPong/assets/158981726/9605eb22-62b2-4570-9437-15829fdd467b)
 ![image](https://github.com/JeroekPanggang/KnightPong/assets/158981726/512dd1a6-da89-4fb2-baf1-b829cc7f9b3d)
 
 
@@ -22,7 +22,6 @@
 <p>
     <h4>- If Playing in VsBot Mode:<br></h4>
        Movement using W and S, Hitting ball using SPACE. <br>
-    
     <h4>- If Playing in 1Vs1 Mode:<br></h4>
     Player 1 moves using W and S, and hits using SPACE<br>
     Player 2 moves using the up and down arrows, and hits using ENTER<br>
